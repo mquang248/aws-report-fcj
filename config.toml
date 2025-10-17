@@ -1,6 +1,7 @@
 baseURL = "https://mquang248.github.io/aws-report-fcj/"
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
+defaultContentLanguageInSubdir = true
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
